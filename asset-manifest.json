@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/techtrends-innovations/static/css/main.e6c13ad2.css",
-    "main.js": "/techtrends-innovations/static/js/main.84422b87.js",
+    "main.js": "/techtrends-innovations/static/js/main.b6435c08.js",
     "index.html": "/techtrends-innovations/index.html",
     "main.e6c13ad2.css.map": "/techtrends-innovations/static/css/main.e6c13ad2.css.map",
-    "main.84422b87.js.map": "/techtrends-innovations/static/js/main.84422b87.js.map"
+    "main.b6435c08.js.map": "/techtrends-innovations/static/js/main.b6435c08.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.84422b87.js"
+    "static/js/main.b6435c08.js"
   ]
 }
